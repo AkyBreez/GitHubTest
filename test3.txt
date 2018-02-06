@@ -1,0 +1,1 @@
+Je teste la récupération de mise à jour faite sur le GitHub, ou part d'autre utilisateur directement sur le local.
